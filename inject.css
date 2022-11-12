@@ -1,0 +1,12 @@
+.todo__list-item--section {
+  background-color: var(--custom-color-light);
+  color: var(--custom-color-light-text);
+  text-align: center;
+
+  font-family: alternate-gothic-no-1-d,
+    var(--font-extra-name, "Roboto Condensed"), "Inter", "Helvetica Neue",
+    Helvetica, -apple-system, system-ui, sans-serif;
+  text-transform: uppercase;
+  line-height: var(--font-extra-height, 1);
+  font-size: 1rem;
+}
